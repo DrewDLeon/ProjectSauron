@@ -1,0 +1,6 @@
+path: C:\Users\Andres\Documents\HackMTY\ProjectSauron\Back\yolov8
+train: train
+val: valid
+
+nc: 1
+names: ['eye']

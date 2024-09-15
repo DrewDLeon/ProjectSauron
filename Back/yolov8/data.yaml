@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['diedpolyp', 'location']
+
+roboflow:
+  workspace: tuit-q1n5m
+  project: endoscopic-image
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/tuit-q1n5m/endoscopic-image/dataset/3

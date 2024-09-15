@@ -1,7 +1,0 @@
-names:
-- polyp
-nc: 1
-path: /Users/andrew/Documents/Personal/HackMTY/ProjectSauron/Back/Images
-test: test/images
-train: train/images
-val: val/images

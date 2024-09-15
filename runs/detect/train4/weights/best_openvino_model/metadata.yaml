@@ -1,0 +1,15 @@
+description: Ultralytics best model trained on C:\Users\Andres\Documents\HackMTY\ProjectSauron\Back\yolov8\train\data.yaml
+author: Ultralytics
+date: '2024-09-15T02:57:00.281886'
+version: 8.2.93
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: diedpolyp
+  1: location
